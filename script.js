@@ -18,11 +18,16 @@ numeric = confirm('Would you like to include numeric values?')
 specialChar = confirm('Would you like to include special character?')
 }
 
-let criteriaSelect = [lowercase, uppercase, numeric, specialChar]
+let criteriaSelect = [lowercase, uppercase, numeric, specialChar];
 let newCriteria = [];
 
-for (1)
-// Write password to the #password input
+for (1=0; i < criteria.length; 1++);
+  if (criteriaSelect[i]){
+    newCriteria= newCriteria.concat(criteri[1]);
+  }
+}
+
+console.log
 
 function writePassword() {
   var password = generatePassword();
