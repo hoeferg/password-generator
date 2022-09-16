@@ -31,7 +31,9 @@ console.log(newCriteria);
 
 passw = ""
 for (i = 0; i < length; i++) {
-   newChar = newCriteria(Math.floor(Math.random()))
+   newChar = newCriteria(Math.floor(Math.random[); * newCriteria.length)];
+  }
+  return passW;
 }
 
 function writePassword() {
