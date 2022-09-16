@@ -9,7 +9,7 @@ N/A
 
 ## Installation
 
-Go to the website link :
+Go to the website link : https://hoeferg.github.io/password-generator/
 ## Usage
 
 Click the button on the screen to generate a new code. 
