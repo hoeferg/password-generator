@@ -21,7 +21,7 @@ specialChar = confirm('Would you like to include special character?')
 let criteriaSelect = [lowercase, uppercase, numeric, specialChar];
 let newCriteria = [];
 
-for (i=0; i < criteria.length; i++);{
+for (i=0; i < criteriaSelect.length; i++) {
   if (criteriaSelect[i]){
     newCriteria= newCriteria.concat(criteria[i]);
   }
