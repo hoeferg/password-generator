@@ -27,7 +27,12 @@ for (1=0; i < criteria.length; 1++);
   }
 }
 
-console.log
+console.log(newCriteria);
+
+passw = ""
+for (i = 0; i < length; i++) {
+   newChar = newCriteria(Math.floor(Math.random()))
+}
 
 function writePassword() {
   var password = generatePassword();
