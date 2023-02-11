@@ -3,23 +3,30 @@
 ## Description
 
 This project is meant to create a secure password for the user. I learned how to use for loops and how to create a variables.
-## Table of Contents (Optional)
 
-N/A
 
 ## Installation
 
-Go to the website link : https://hoeferg.github.io/password-generator/
-![Screenshot](./css/screenshot.png)
-## Usage
+1. Clone the repo
+   ```sh
+   git clone https://github.com/hoeferg/password-generator
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Start the application
+   ```sh
+   npm start
 
-Click the button on the screen to generate a new code. 
-
-## Credits
-
-Derrick Laff and Fernado Z
 
 ## License
 
-N/A
+No license
+
+---
+
+## Contact
+Gayle Hoefer - [LinkedIn](https://www.linkedin.com/in/gayle-hoefer-61a2a3124/) - [Github](https://github.com/hoeferg)
+
 
