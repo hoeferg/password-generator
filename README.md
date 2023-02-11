@@ -1,5 +1,7 @@
 # Password Generator
 
+![Screenshot](./css/screenshot.png)
+
 ## Description
 
 This project is meant to create a secure password for the user. I learned how to use for loops and how to create a variables.
