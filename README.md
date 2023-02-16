@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is meant to create a secure password for the user. I learned how to use for loops and how to create a variables.
+This project is meant to create a secure password for the user. The user goes through the promps and then a random secure password is generated. The user can choose between capital letters, lowercase letters and special charaters.
 
 
 ## Installation
